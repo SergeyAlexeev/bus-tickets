@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 
 const App = () => (
-  <Router>
-    <Route exact path={process.env.PUBLIC_URL + '/:hash?'} component={Home} />
+  <Router basename={process.env.PUBLIC_URL}>
+    <Route path={'/:hash?'} component={Home} />
   </Router>
 );
 
