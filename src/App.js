@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => (
   <Router>
-    <Route exact path="/:hash?" component={Home} basename={process.env.PUBLIC_URL} />
+    <Route exact path={process.env.PUBLIC_URL + '/:hash?'} component={Home} />
   </Router>
 );
 
