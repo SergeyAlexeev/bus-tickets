@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bus-tickets/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bus-tickets/static/js/main.4301c26c.chunk.js",
+    "main.js.map": "/bus-tickets/static/js/main.4301c26c.chunk.js.map",
+    "runtime~main.js": "/bus-tickets/static/js/runtime~main.926e8864.js",
+    "runtime~main.js.map": "/bus-tickets/static/js/runtime~main.926e8864.js.map",
+    "static/js/2.b41502e9.chunk.js": "/bus-tickets/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/bus-tickets/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/bus-tickets/index.html",
+    "precache-manifest.b791bef8670e05150e7063be12c79f9b.js": "/bus-tickets/precache-manifest.b791bef8670e05150e7063be12c79f9b.js",
+    "service-worker.js": "/bus-tickets/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/bus-tickets/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/bus-tickets/static/media/logo.5d5d9eef.svg"
+  }
+}
