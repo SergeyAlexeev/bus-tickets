@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b22185e6abf5117a88a2ca6396a5d831",
+    "revision": "679602370813ebef7c6e6f3af70be349",
     "url": "/bus-tickets/index.html"
   },
   {
-    "revision": "79883b669e010635a21a",
+    "revision": "1d48e53dc204ae01cd73",
     "url": "/bus-tickets/static/css/main.361cdc38.chunk.css"
   },
   {
-    "revision": "2315f74ce3c99316133d",
-    "url": "/bus-tickets/static/js/2.3310f33a.chunk.js"
+    "revision": "5f9edcf325c41ffa7c24",
+    "url": "/bus-tickets/static/js/2.1403189c.chunk.js"
   },
   {
-    "revision": "79883b669e010635a21a",
-    "url": "/bus-tickets/static/js/main.ca6f65fb.chunk.js"
+    "revision": "1d48e53dc204ae01cd73",
+    "url": "/bus-tickets/static/js/main.f3b1f574.chunk.js"
   },
   {
     "revision": "3bd34916943428f1d79b",
