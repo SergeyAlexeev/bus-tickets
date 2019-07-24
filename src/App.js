@@ -1,9 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 
+
 const App = () => (
-  <Router basename={process.env.PUBLIC_URL}>
+  <Router>
     <Route path={'/:hash?'} component={Home} />
   </Router>
 );
