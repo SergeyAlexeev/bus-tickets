@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => (
   <Router>
-    <Route exact path="/:hash?" component={Home} />
+    <Route exact path="/:hash?" component={Home} basename={process.env.PUBLIC_URL} />
   </Router>
 );
 
@@ -14,7 +14,7 @@ const Home = ({ match: { params: { hash } } }) => {
   try {
     number = atob(hash);
   } catch(e) {}
-  
+
   return (
     <div className="App">
       <div className="ticket">
