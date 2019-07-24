@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bus-tickets/static/css/main.361cdc38.chunk.css",
-    "main.js": "/bus-tickets/static/js/main.790625b3.chunk.js",
-    "main.js.map": "/bus-tickets/static/js/main.790625b3.chunk.js.map",
+    "main.js": "/bus-tickets/static/js/main.6c6f4caf.chunk.js",
+    "main.js.map": "/bus-tickets/static/js/main.6c6f4caf.chunk.js.map",
     "runtime~main.js": "/bus-tickets/static/js/runtime~main.926e8864.js",
     "runtime~main.js.map": "/bus-tickets/static/js/runtime~main.926e8864.js.map",
     "static/js/2.1403189c.chunk.js": "/bus-tickets/static/js/2.1403189c.chunk.js",
     "static/js/2.1403189c.chunk.js.map": "/bus-tickets/static/js/2.1403189c.chunk.js.map",
     "index.html": "/bus-tickets/index.html",
-    "precache-manifest.1f4d04c1a902d742d07909ed2b1788fd.js": "/bus-tickets/precache-manifest.1f4d04c1a902d742d07909ed2b1788fd.js",
+    "precache-manifest.61da5cd7313380a977c517085865fe89.js": "/bus-tickets/precache-manifest.61da5cd7313380a977c517085865fe89.js",
     "service-worker.js": "/bus-tickets/service-worker.js",
     "static/css/main.361cdc38.chunk.css.map": "/bus-tickets/static/css/main.361cdc38.chunk.css.map",
     "static/media/App.css": "/bus-tickets/static/media/ticket.bfae5cb3.png"
